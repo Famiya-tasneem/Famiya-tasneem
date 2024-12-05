@@ -1,5 +1,5 @@
 ![poster](https://github.com/Famiya-tasneem/Famiya-tasneem/blob/dc0cf725d4485ba8906a5d853550fcfbb0eff12d/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Famiya</h1>
+<h1 align="center">Hi 👋, I'm Famiya Tasneem</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=famiya-tasneem&label=Profile%20views&color=0e75b6&style=flat" alt="famiya-tasneem" /> </p>
