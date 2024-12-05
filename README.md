@@ -1,4 +1,4 @@
-![poster](![image](https://github.com/user-attachments/assets/8ba8a4e9-cb75-4217-9d7a-4a6c36db504e))
+![poster](![image]())
 <h1 align="center">Hi 👋, I'm Famiya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
